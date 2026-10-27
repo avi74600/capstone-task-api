@@ -1,0 +1,21 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / VS Code
+.vscode/
+.vs/
+*.user
+*.suo
+
+## Database files (Migrations directory is tracked instead)
+*.db
+*.db-shm
+*.db-wal
+
+## OS Files
+.DS_Store
+Thumbs.db
+.local/
